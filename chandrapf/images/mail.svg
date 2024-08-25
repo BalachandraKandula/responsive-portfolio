@@ -1,0 +1,16 @@
+<svg width="110" height="107" viewBox="0 0 110 107" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="110" height="107" fill="#f0f0f0"/>
+
+  <!-- Envelope Body -->
+  <rect x="15" y="30" width="80" height="50" fill="#007bff" rx="8" ry="8"/>
+  
+  <!-- Envelope Flap -->
+  <polygon points="15,30 55,10 95,30" fill="#0056b3"/>
+
+  <!-- Envelope Opening -->
+  <polygon points="15,30 55,55 95,30" fill="#ffffff"/>
+  
+  <!-- Inner Envelope Line -->
+  <line x1="15" y1="30" x2="95" y2="30" stroke="#0056b3" stroke-width="2"/>
+</svg>
