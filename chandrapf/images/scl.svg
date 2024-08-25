@@ -1,0 +1,21 @@
+<svg width="110" height="107" viewBox="0 0 110 107" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="110" height="107" fill="#e5e5e5"/>
+
+  <!-- Building -->
+  <rect x="20" y="35" width="70" height="40" fill="#006400"/>
+  <rect x="30" y="45" width="12" height="12" fill="#ffffff"/>
+  <rect x="50" y="45" width="12" height="12" fill="#ffffff"/>
+  <rect x="70" y="45" width="12" height="12" fill="#ffffff"/>
+  <rect x="30" y="65" width="12" height="12" fill="#ffffff"/>
+  <rect x="50" y="65" width="12" height="12" fill="#ffffff"/>
+  <rect x="70" y="65" width="12" height="12" fill="#ffffff"/>
+  <rect x="30" y="85" width="50" height="10" fill="#ffffff"/>
+
+  <!-- Roof -->
+  <polygon points="20,35 55,10 90,35" fill="#003300"/>
+
+  <!-- School Name Banner -->
+  <rect x="20" y="90" width="70" height="15" fill="#003300"/>
+  <text x="55" y="102" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="bold">SCHOOL</text>
+</svg>
