@@ -1,0 +1,25 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#ffffff"/>
+
+  <!-- Monitor Frame -->
+  <rect x="20" y="40" width="160" height="100" rx="10" fill="#e6f4ff" stroke="#000000" stroke-width="3"/>
+
+  <!-- Screen Division -->
+  <line x1="20" y1="110" x2="180" y2="110" stroke="#000000" stroke-width="3"/>
+
+  <!-- Circles for UI and UX -->
+  <circle cx="90" cy="85" r="30" fill="#fdd835" stroke="#000000" stroke-width="3"/>
+  <circle cx="120" cy="85" r="30" fill="#26a69a" stroke="#000000" stroke-width="3"/>
+
+  <!-- Text inside circles -->
+  <text x="90" y="92" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#000000" font-weight="bold">UI</text>
+  <text x="120" y="92" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#000000" font-weight="bold">UX</text>
+
+  <!-- Monitor Stand -->
+  <rect x="85" y="140" width="30" height="10" fill="#b3d9ff"/>
+  <rect x="75" y="150" width="50" height="10" fill="#b3d9ff" rx="2"/>
+
+  <!-- Bottom Connector -->
+  <line x1="95" y1="140" x2="95" y2="130" stroke="#000000" stroke-width="3"/>
+</svg>
